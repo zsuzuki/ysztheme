@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>YSZ</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -57,7 +57,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DE3535</string>
+				<string>#FF8080</string>
 			</dict>
 		</dict>
 		<dict>
@@ -114,7 +114,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#FF3070</string>
 			</dict>
 		</dict>
 		<dict>
@@ -167,6 +167,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Type name</string>
+			<key>scope</key>
+			<string>entity.name.type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#60C0FF</string>
 			</dict>
 		</dict>
 		<dict>
