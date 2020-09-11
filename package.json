@@ -1,15 +1,17 @@
 {
-    "name": "ysz-theme",
-    "version": "0.1.0",
-    "publisher": "vscode",
-    "engines": { "vscode": "*" },
-    "contributes": {
-        "themes": [
-            {
-                "label": "YSZ theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ysz.theme"
-            }
-        ]
-    }
+  "name": "ysz-theme",
+  "version": "0.2.0",
+  "publisher": "vscode",
+  "engines": {
+    "vscode": "*"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "YSZ theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ysz.json"
+      }
+    ]
+  }
 }
